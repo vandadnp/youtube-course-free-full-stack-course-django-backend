@@ -1,5 +1,5 @@
 {
     "python.formatting.provider": "black",
     "editor.formatOnSave": true,
-    "window.zoomLevel": 1
+    "window.zoomLevel": 5
 }
